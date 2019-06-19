@@ -1,2 +1,1 @@
-# waktultd.github.io
-Waktu website
+# WAKTU
